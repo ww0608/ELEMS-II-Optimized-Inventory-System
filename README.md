@@ -9,8 +9,10 @@ An advanced C++ management system developed to optimize the tracking and organiz
 
 # Algorithms & Data Structures
 This project uses basic programming logic to organize and find lab equipment quickly.
-- Data Storage: Uses a Struct (a custom container) and an Array to hold all equipment details in one list.
-- Sorting (Insertion Sort): Used to arrange the list by Name or Date.
+- Data Storage:
+  - Uses a Struct (a custom container) and an Array to hold all equipment details in one list.
+- Sorting (Insertion Sort):
+  - Used to arrange the list by Name or Date.
   - It works like sorting a deck of cards—taking one item and putting it in the right spot.
 - Searching:
   - Binary Search: A fast way to find an Equipment ID. It splits the list in half repeatedly until the ID is found.
