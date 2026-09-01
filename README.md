@@ -1,6 +1,13 @@
 # Engineering Lab Equipment Management System (ELEMS) II
 An advanced C++ management system developed to optimize the tracking and organization of laboratory inventory through algorithmic efficiency.
 
+# Team Details
+- **Team Members**:
+  - Teh Feng Yue
+  - Teh Wen Wen
+  - Woon Kai-En
+  - Krithikaa Kumar
+
 # Advanced Features
 - Optimized Search: Implemented searching algorithms to locate equipment instantly within the database.
 - Automated Sorting: Features built-in sorting logic to organize inventory by Equipment ID or Name for better readability.
